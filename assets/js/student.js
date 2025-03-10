@@ -2,6 +2,7 @@ console.log("hgh");
 
 console.log("j'ai fini");
 
-console.log("test");
+console.log("test" +3);
+fetch
 
 
