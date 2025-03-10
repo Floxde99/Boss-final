@@ -35,3 +35,5 @@ addForm.addEventListener('submit', async (e)=>{
 })
 
 getPromos()
+
+console.log("J'ai fini aussi");
